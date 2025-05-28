@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="right" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b47c-622f-b7e3-8d3e27808564/raw?se=2025-05-10T15%3A04%3A52Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-10T12%3A39%3A44Z&ske=2025-05-11T12%3A39%3A44Z&sks=b&skv=2024-08-04&sig=nat/f217tTSU3Bp3Vgq4PYk80pIhjwVBAkI%2BsObOjUs%3D" height=300 width=300/>
+<img align="right" src="https://www.meisara.com/static/assets/img/meisara-coding.png" height=300 width=300/>
 
 - 🌱 I’m currently learning **everything 😎**
 
