@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything 😎**
 
-- 👨‍💻 All of my projects are available at [meisara.com](meisara.com)
+- 👨‍💻 All of my projects are available at [meisara.com](https://www.meisara.com)
 
 - 📫 How to reach me **best_meisara@hotmail.com**
 
