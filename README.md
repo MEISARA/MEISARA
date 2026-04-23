@@ -18,18 +18,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meisara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meisara" height="30" width="40" ></a>
+<a href="https://linkedin.com/in/meisara" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="meisara" height="40" width="40" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,electron,redux,sass,tailwind,bootstrap,babel,gulp&perline=6" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,electron,redux,pinia,sass,tailwind,bootstrap,jquery,babel,gulp,wordpress&perline=6" alt="Frontend skills" />
 <br />
 <sub>Also: Bulma, Materialize</sub>
 
 <h4 align="left">Backend:</h4>
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,py,php,laravel,redis,kafka,rabbitmq,graphql&perline=6" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,py,php,laravel,redis,kafka,rabbitmq,graphql,apollo&perline=6" alt="Backend skills" />
 
 <h4 align="left">Mobile Development:</h4>
 <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,react&perline=6" alt="Mobile development skills" />
@@ -44,10 +44,13 @@
 <h4 align="left">Cloud & DevOps:</h4>
 <img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,nginx,linux,git,jenkins&perline=6" alt="Cloud and DevOps skills" />
 
+<h4 align="left">Git:</h4>
+<img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket&perline=6" alt="Git skills" />
+
 <h4 align="left">Other:</h4>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,jest,figma,ai,postman,opencv,tensorflow&perline=6" alt="Other skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,raspberrypi,jest,figma,ps,ai,postman,opencv,tensorflow&perline=6" alt="Other skills" />
 <br />
-<sub>Also: Photoshop, CanvasJS, Chart.js, Pandas</sub>
+<sub>Also: CanvasJS, Chart.js, Pandas</sub>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/meisara"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meisara" ></a></p><br><br>
